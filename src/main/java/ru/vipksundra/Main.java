@@ -2,6 +2,6 @@ package ru.vipksundra;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello qu Quru!!");
+        System.out.println("Hello Hello");
     }
 }
